@@ -10,16 +10,16 @@ The project is built for privacy-focused document intelligence: fast, local, and
 
 ## ⭐ Features
 
-- 📄 **Upload PDF or Images** (PNG/JPG/JPEG)
-- 🔍 **Automatic OCR** using PaddleOCR
-- ✂️ **Smart text chunking & cleaning**
-- 📦 **FAISS Vector Search** for fast recall
-- 🧠 **Local LLM (Phi-2)** for answering queries
-- 🌀 **Matrix rain cyber UI**
-- 🌐 **Streamlit Frontend**
-- 🐳 **Docker support** for easy setup
-- 🔒 **Runs fully offline**
-- 📚 **Document Library view**
+-  **Upload PDF or Images** (PNG/JPG/JPEG)
+-  **Automatic OCR** using PaddleOCR
+-  **Smart text chunking & cleaning**
+-  **FAISS Vector Search** for fast recall
+-  **Local LLM (Phi-2)** for answering queries
+-  **Matrix rain cyber UI**
+-  **Streamlit Frontend**
+-  **Docker support** for easy setup
+-  **Runs fully offline**
+-  **Document Library view**
 
 ---
 
