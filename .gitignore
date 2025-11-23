@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Uploaded user data
+data/uploads/
+
+# Generated metadata + FAISS index
+data/library_metadata.json
+data/metadata.npy
+data/vector_index.faiss
+
+# Model files (if ever added)
+*.bin
+*.pt
+*.gguf
+
+# Notebook junk
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Pyenv
+.pyenv/

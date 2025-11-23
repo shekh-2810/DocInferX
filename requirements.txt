@@ -1,0 +1,19 @@
+streamlit
+faiss-cpu
+numpy
+pillow
+python-dotenv
+tqdm
+
+# PDF + OCR
+pdf2image
+pypdf
+paddleocr
+opencv-python-headless
+python-magic
+
+# Embeddings (Sentence Transformers)
+sentence-transformers
+
+# preprocessing helpers
+regex
