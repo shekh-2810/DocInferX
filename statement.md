@@ -1,9 +1,7 @@
 
----
-
 # ✅ **statement.md**
 
-```markdown
+
 # Problem Statement
 
 Documents—books, research papers, scanned images, notes—contain valuable information, but extracting insights from them quickly is time-consuming.  
