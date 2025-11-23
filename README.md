@@ -90,6 +90,30 @@ docker run -p 8501:8501 docinferx
 
 **6.Compare answers with the source document to verify accuracy.**
 
+## Screenshots
+
+
+### Upload Page
+![Upload Page](assets/upd.png)
+
+### Completion of upload
+![Done](assets/done.png)
+
+### Sidebar
+![Sidebar](assets/sidebar.png)
+
+### Results
+![Result 1](assets/res1.png)
+
+![Result 2](assets/res2.png)
+
+![Result 3](assets/res3.png)
+
+### Library
+![Library](assets/lib.png)
+
+
+
 ## 👤 Maintainer
 
 # **Developed by Shashank Shekhar Choudhary.**
