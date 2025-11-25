@@ -34,7 +34,7 @@ class VectorStore:
                 self.index = faiss.index_cpu_to_gpu(self.gpu_res, 0, cpu_index)
                 self.metadata = []
         except Exception:
-            # fallback to CPU-only index
+            # fallback to CPU index
             if os.path.exists(self.index_path):
                 self.index = faiss.read_index(self.index_path)
                 self.metadata = np.load(self.meta_path, allow_pickle=True).tolist() if os.path.exists(self.meta_path) else []
