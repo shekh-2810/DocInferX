@@ -71,7 +71,7 @@ class RAGPipeline:
 
         # cleanup
         lines = [l.strip() for l in decoded.splitlines() if l.strip()]
-        answer = " ".join(dict.fromkeys(lines))  # preserve order, dedupe
+        answer = " ".join(dict.fromkeys(lines))  # preserve order
         # free memory
         del inputs, out
         torch.cuda.empty_cache()
