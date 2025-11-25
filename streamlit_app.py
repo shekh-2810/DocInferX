@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 
-# FULLSCREEN LOADING SCREEN (CSS FADE OUT)
+# FULLSCREEN LOADING SCREEN
 
 st.markdown("""
 <style>
